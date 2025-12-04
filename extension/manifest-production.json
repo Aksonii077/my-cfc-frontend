@@ -1,0 +1,38 @@
+{
+  "manifest_version": 3,
+  "name": "CFC CRM",
+  "version": "1.0.0",
+  "description": "Sync your LinkedIn connections to your app with one click. Automatically extract and sync your professional network with secure authentication.",
+  "permissions": [
+    "activeTab",
+    "storage",
+    "scripting",
+    "tabs"
+  ],
+  "host_permissions": [
+    "https://www.linkedin.com/*",
+    "https://*.linkedin.com/*"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://www.linkedin.com/*"],
+      "js": ["content.js"],
+      "run_at": "document_end"
+    }
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "CFC CRM"
+  },
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+  "author": "Your Company Name",
+  "homepage_url": "https://your-website.com",
+  "minimum_chrome_version": "88"
+} 

@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>CoFounder Circle CRM</title>
+  <style>
+    :root {
+      --brand:#6b4cff;          /* CFC accent (indigo) */
+      --brand-dark:#5a3de6;
+      --bg:#f7f7fb;
+      --card:#ffffff;
+      --border:#ececf3;
+      --text:#0f172a;
+      --muted:#667085;
+      --success:#10b981;
+      --danger:#ef4444;
+      --header-start:#0f172a;   /* neutral, not LinkedIn */
+      --header-end:#3238bd;     /* deep indigo */
+    }
+    *{box-sizing:border-box}
+    body { font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif; margin: 0; background:var(--bg); color:var(--text); }
+    .wrap { width: 380px; height: 100vh; display: flex; flex-direction: column; }
+    .header { background: linear-gradient(90deg,var(--header-start),var(--header-end)); color: #fff; padding: 14px 16px; display:flex; align-items:center; gap:10px; box-shadow: 0 1px 0 rgba(0,0,0,0.06); }
+    .brand { font-weight: 700; font-size: 16px; letter-spacing:.2px; }
+    .content { padding: 14px; overflow:auto; flex:1; display:flex; flex-direction:column; gap:12px; }
+    .card { border:1px solid var(--border); border-radius:12px; padding:14px; background:var(--card); box-shadow:0 1px 2px rgba(0,0,0,0.03); }
+    .section-title { font-size:12px; text-transform:uppercase; letter-spacing:.5px; color:var(--muted); margin:0 0 8px; }
+    .row { display:flex; align-items:center; justify-content:space-between; gap:8px; }
+    .profile { display:flex; align-items:center; gap:10px; }
+    .avatar { width:36px; height:36px; border-radius:50%; background:var(--brand); color:#fff; display:flex; align-items:center; justify-content:center; font-weight:700; }
+    .u-name { font-weight:600; }
+    .u-email { font-size:12px; color:var(--muted); }
+    .btn { display:inline-flex; align-items:center; justify-content:center; gap:8px; background:var(--brand); color:#fff; border:none; border-radius:10px; padding:10px 14px; cursor:pointer; font-weight:600; box-shadow:0 1px 2px rgba(16,24,40,0.04); }
+    .btn:hover { background:var(--brand-dark); }
+    .btn-secondary { background:#eef6fb; color:var(--brand); }
+    .btn:disabled { opacity:.6; cursor:not-allowed; }
+    .status { display:flex; align-items:center; gap:8px; margin-top:8px; font-size:13px; }
+    .dot { width:10px; height:10px; border-radius:50%; box-shadow: 0 0 0 2px #fff inset; }
+    .dot.connected { background:var(--success); }
+    .dot.disconnected { background:var(--danger); }
+    .progress { height:6px; background:#edf2f7; border-radius:4px; overflow:hidden; margin-top:10px; }
+    .fill { height:100%; width:0%; background:var(--brand); transition: width .3s ease; }
+    .muted { color:var(--muted); font-size:12px; }
+    .error { background:#fef2f2; color:#b91c1c; padding:10px 12px; border-radius:10px; margin-top:10px; display:none; border:1px solid #fee2e2; }
+    .success { background:#f0fdf4; color:#166534; padding:10px 12px; border-radius:10px; margin-top:10px; display:none; border:1px solid #dcfce7; }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="header">
+      <img src="icons/brand.svg" width="18" height="18" alt="brand" />
+      <div class="brand">CoFounder Circle CRM</div>
+    </div>
+    <div class="content">
+      <div class="card" id="authCard">
+        <div class="row">
+          <div class="profile">
+            <div id="avatar" class="avatar">C</div>
+            <div>
+              <div id="authStatus" class="u-name">Checking authentication…</div>
+              <div id="authEmail" class="u-email"></div>
+            </div>
+          </div>
+          <button id="loginBtn" class="btn" style="display:none">Login / Signup</button>
+        </div>
+      </div>
+
+      <div class="card">
+        <div class="row">
+          <div>
+            <div class="section-title">LinkedIn</div>
+            <div class="status"><div id="statusDot" class="dot disconnected"></div><div id="statusText" class="muted">Not Connected</div></div>
+          </div>
+          <button id="importBtn" class="btn">Import Connections</button>
+        </div>
+        <div class="progress"><div id="progressFill" class="fill"></div></div>
+        <div id="progressText" class="muted"></div>
+        <div id="errorBox" class="error"></div>
+        <div id="successBox" class="success"></div>
+      </div>
+    </div>
+  </div>
+  <script src="sidepanel.js"></script>
+</body>
+</html>
+

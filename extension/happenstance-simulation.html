@@ -1,0 +1,412 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Happenstance Simulation - LinkedIn Integration</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            margin: 0;
+            padding: 0;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        .header {
+            background: white;
+            border-radius: 12px;
+            padding: 30px;
+            margin-bottom: 30px;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+            text-align: center;
+        }
+        .header h1 {
+            color: #333;
+            margin: 0 0 10px 0;
+            font-size: 2.5rem;
+        }
+        .header p {
+            color: #666;
+            font-size: 1.1rem;
+            margin: 0;
+        }
+        .main-content {
+            background: white;
+            border-radius: 12px;
+            padding: 40px;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+        }
+        .login-section {
+            max-width: 400px;
+            margin: 0 auto;
+            text-align: center;
+        }
+        .login-section h2 {
+            color: #333;
+            margin-bottom: 30px;
+        }
+        .form-group {
+            margin-bottom: 20px;
+            text-align: left;
+        }
+        .form-group label {
+            display: block;
+            margin-bottom: 8px;
+            color: #333;
+            font-weight: 500;
+        }
+        .form-group input {
+            width: 100%;
+            padding: 12px 16px;
+            border: 2px solid #e1e5e9;
+            border-radius: 8px;
+            font-size: 16px;
+            transition: border-color 0.3s;
+            box-sizing: border-box;
+        }
+        .form-group input:focus {
+            outline: none;
+            border-color: #667eea;
+        }
+        .login-btn {
+            width: 100%;
+            padding: 14px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            border: none;
+            border-radius: 8px;
+            font-size: 16px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: transform 0.2s;
+        }
+        .login-btn:hover {
+            transform: translateY(-2px);
+        }
+        .extension-section {
+            margin-top: 40px;
+            padding: 30px;
+            background: #f8f9fa;
+            border-radius: 8px;
+            text-align: center;
+        }
+        .extension-section h3 {
+            color: #333;
+            margin-bottom: 20px;
+        }
+        .extension-btn {
+            display: inline-flex;
+            align-items: center;
+            gap: 10px;
+            padding: 12px 24px;
+            background: #0077b5;
+            color: white;
+            text-decoration: none;
+            border-radius: 8px;
+            font-weight: 500;
+            transition: background 0.3s;
+        }
+        .extension-btn:hover {
+            background: #005885;
+        }
+        .extension-btn img {
+            width: 20px;
+            height: 20px;
+        }
+        .user-dashboard {
+            display: none;
+            text-align: center;
+        }
+        .user-dashboard h2 {
+            color: #333;
+            margin-bottom: 20px;
+        }
+        .user-info {
+            background: #f8f9fa;
+            padding: 20px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+        }
+        .user-info h3 {
+            color: #333;
+            margin: 0 0 10px 0;
+        }
+        .user-info p {
+            color: #666;
+            margin: 5px 0;
+        }
+        .logout-btn {
+            padding: 10px 20px;
+            background: #dc3545;
+            color: white;
+            border: none;
+            border-radius: 6px;
+            cursor: pointer;
+            font-weight: 500;
+        }
+        .logout-btn:hover {
+            background: #c82333;
+        }
+        .status-message {
+            padding: 15px;
+            border-radius: 8px;
+            margin: 20px 0;
+            font-weight: 500;
+        }
+        .status-message.success {
+            background: #d4edda;
+            color: #155724;
+            border: 1px solid #c3e6cb;
+        }
+        .status-message.info {
+            background: #d1ecf1;
+            color: #0c5460;
+            border: 1px solid #bee5eb;
+        }
+        .extension-status {
+            background: #e7f3ff;
+            padding: 15px;
+            border-radius: 8px;
+            margin: 20px 0;
+            border-left: 4px solid #0077b5;
+        }
+        .extension-status h4 {
+            margin: 0 0 10px 0;
+            color: #0077b5;
+        }
+        .extension-status p {
+            margin: 5px 0;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🚀 Happenstance</h1>
+            <p>Connect your LinkedIn network seamlessly</p>
+        </div>
+
+        <div class="main-content">
+            <!-- Login Section -->
+            <div id="loginSection" class="login-section">
+                <h2>Welcome to Happenstance</h2>
+                <p style="color: #666; margin-bottom: 30px;">Log in to start syncing your LinkedIn connections</p>
+                
+                <form id="loginForm">
+                    <div class="form-group">
+                        <label for="email">Email</label>
+                        <input type="email" id="email" required placeholder="Enter your email">
+                    </div>
+                    <div class="form-group">
+                        <label for="password">Password</label>
+                        <input type="password" id="password" required placeholder="Enter your password">
+                    </div>
+                    <button type="submit" class="login-btn">Log In</button>
+                </form>
+
+                <div id="loginStatus" class="status-message" style="display: none;"></div>
+            </div>
+
+            <!-- User Dashboard -->
+            <div id="userDashboard" class="user-dashboard">
+                <h2>Welcome back, <span id="userName">User</span>! 👋</h2>
+                
+                <div class="user-info">
+                    <h3>Your Account</h3>
+                    <p><strong>Email:</strong> <span id="userEmail">user@example.com</span></p>
+                    <p><strong>Member since:</strong> <span id="memberSince">January 2024</span></p>
+                    <p><strong>Status:</strong> <span style="color: #28a745;">✓ Active</span></p>
+                </div>
+
+                <div class="extension-section">
+                    <h3>🔗 LinkedIn Integration</h3>
+                    <p>Install our Chrome extension to automatically sync your LinkedIn connections</p>
+                    
+                    <div id="extensionStatus" class="extension-status">
+                        <h4>Extension Status</h4>
+                        <p id="extensionStatusText">Checking extension status...</p>
+                    </div>
+
+                    <a href="#" id="installExtensionBtn" class="extension-btn">
+                        <img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjAiIGhlaWdodD0iMjAiIHZpZXdCb3g9IjAgMCAyMCAyMCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEwIDJMMTggMTBIMTRWMTZIMFYxMEgyTDEwIDJaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K" alt="Download">
+                        Install Chrome Extension
+                    </a>
+
+                    <div id="extensionInstructions" style="margin-top: 20px; display: none;">
+                        <h4>Next Steps:</h4>
+                        <ol style="text-align: left; max-width: 400px; margin: 0 auto;">
+                            <li>Click "Add to Chrome" in the popup</li>
+                            <li>Return to this page</li>
+                            <li>Open the extension from your toolbar</li>
+                            <li>Click "Connect LinkedIn" to start syncing</li>
+                        </ol>
+                    </div>
+                </div>
+
+                <button id="logoutBtn" class="logout-btn">Log Out</button>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        let currentUser = null;
+        let extensionInstalled = false;
+
+        // Check if user is already logged in
+        function checkAuthStatus() {
+            const token = localStorage.getItem('authToken');
+            const userInfo = localStorage.getItem('userInfo');
+            
+            if (token && userInfo) {
+                try {
+                    currentUser = JSON.parse(userInfo);
+                    showDashboard();
+                    checkExtensionStatus();
+                } catch (error) {
+                    console.log('Error parsing user info:', error);
+                }
+            }
+        }
+
+        // Show login form
+        function showLogin() {
+            document.getElementById('loginSection').style.display = 'block';
+            document.getElementById('userDashboard').style.display = 'none';
+        }
+
+        // Show user dashboard
+        function showDashboard() {
+            document.getElementById('loginSection').style.display = 'none';
+            document.getElementById('userDashboard').style.display = 'block';
+            
+            if (currentUser) {
+                document.getElementById('userName').textContent = currentUser.name;
+                document.getElementById('userEmail').textContent = currentUser.email;
+                document.getElementById('memberSince').textContent = currentUser.memberSince;
+            }
+        }
+
+        // Handle login
+        document.getElementById('loginForm').addEventListener('submit', function(e) {
+            e.preventDefault();
+            
+            const email = document.getElementById('email').value;
+            const password = document.getElementById('password').value;
+            
+            // Simulate login API call
+            simulateLogin(email, password);
+        });
+
+        // Simulate login
+        function simulateLogin(email, password) {
+            const statusDiv = document.getElementById('loginStatus');
+            statusDiv.style.display = 'block';
+            statusDiv.className = 'status-message info';
+            statusDiv.textContent = 'Logging in...';
+            
+            // Simulate API delay
+            setTimeout(() => {
+                // Create mock user data
+                currentUser = {
+                    id: 'user_' + Date.now(),
+                    name: email.split('@')[0],
+                    email: email,
+                    memberSince: new Date().toLocaleDateString('en-US', { 
+                        year: 'numeric', 
+                        month: 'long' 
+                    }),
+                    token: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6I' + email.split('@')[0] + 'IiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c'
+                };
+                
+                // Store user data (this triggers extension detection)
+                localStorage.setItem('authToken', currentUser.token);
+                localStorage.setItem('userInfo', JSON.stringify(currentUser));
+                
+                // Show success
+                statusDiv.className = 'status-message success';
+                statusDiv.textContent = 'Login successful! Welcome to Happenstance.';
+                
+                // Show dashboard
+                setTimeout(() => {
+                    showDashboard();
+                    checkExtensionStatus();
+                }, 1000);
+                
+            }, 1500);
+        }
+
+        // Handle logout
+        document.getElementById('logoutBtn').addEventListener('click', function() {
+            // Clear user data
+            localStorage.removeItem('authToken');
+            localStorage.removeItem('userInfo');
+            currentUser = null;
+            
+            // Show login form
+            showLogin();
+            
+            // Clear status
+            document.getElementById('loginStatus').style.display = 'none';
+        });
+
+        // Check extension status
+        function checkExtensionStatus() {
+            const statusText = document.getElementById('extensionStatusText');
+            
+            try {
+                if (window.chrome && window.chrome.runtime) {
+                    // Try to send a ping to the extension
+                    window.chrome.runtime.sendMessage({
+                        type: 'PING'
+                    }).then(response => {
+                        extensionInstalled = true;
+                        statusText.innerHTML = '<span style="color: #28a745;">✅ Extension detected and ready!</span>';
+                        document.getElementById('extensionInstructions').style.display = 'block';
+                    }).catch(error => {
+                        extensionInstalled = false;
+                        statusText.innerHTML = '<span style="color: #dc3545;">❌ Extension not installed</span>';
+                        document.getElementById('extensionInstructions').style.display = 'none';
+                    });
+                } else {
+                    extensionInstalled = false;
+                    statusText.innerHTML = '<span style="color: #ffc107;">⚠️ Chrome extension API not available</span>';
+                    document.getElementById('extensionInstructions').style.display = 'none';
+                }
+            } catch (error) {
+                extensionInstalled = false;
+                statusText.innerHTML = '<span style="color: #dc3545;">❌ Extension not available</span>';
+                document.getElementById('extensionInstructions').style.display = 'none';
+            }
+        }
+
+        // Handle extension installation
+        document.getElementById('installExtensionBtn').addEventListener('click', function(e) {
+            e.preventDefault();
+            
+            // Simulate redirect to Chrome Web Store
+            alert('This would redirect to the Chrome Web Store to install the extension.\n\nFor testing, please:\n1. Load the extension in Chrome\n2. Return to this page\n3. Refresh to see the extension status');
+        });
+
+        // Listen for storage changes (extension might store data)
+        window.addEventListener('storage', function(e) {
+            if (e.key === 'authToken' || e.key === 'userInfo') {
+                checkAuthStatus();
+            }
+        });
+
+        // Initialize
+        document.addEventListener('DOMContentLoaded', function() {
+            checkAuthStatus();
+            
+            // Check extension status every 2 seconds
+            setInterval(checkExtensionStatus, 2000);
+        });
+    </script>
+</body>
+</html> 

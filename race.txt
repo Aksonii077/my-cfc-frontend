@@ -1,0 +1,9740 @@
+data: {"choices": [{"delta": {"content": "\ud83d\udd0d **RETRIEVAL**\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "Gathering relevant information from multiple sources...\n\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "\ud83c\udf10 **WEB RESEARCH & CURRENT MARKET DATA**\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "**\ud83d\udcca"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Market"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Intelligence"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Summary:**"}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "\u2022"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "**The"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "beauty"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "market"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "in"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "2023:"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "New"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "industry"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "trends"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "|"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "McKinsey**:"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "May"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "**22**,****"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "****2023****"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "..."}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "The"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "glow"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "of"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "the"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "beauty"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "industry"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "has"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "proved"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "hard"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "to"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "resist**,**"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "attracting"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "many"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "new"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "companies"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "and"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "investors."}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Here"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "are"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "**5**"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "disruptive"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "trends"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "for"}}]}
+
+
+data: {"choices": [{"delta": {"content": "\u00a0"}}]}
+
+
+data: {"choices": [{"delta": {"content": "......"}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "\u2022"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "**The"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "beauty"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "market"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "in"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "2023:"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "New"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "industry"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "trends"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "|"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "McKinsey**:"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "May"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "**22**,****"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "****2023****"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "..."}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "The"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "glow"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "of"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "the"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "beauty"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "industry"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "has"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "proved"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "hard"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "to"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "resist**,**"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "attracting"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "many"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "new"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "companies"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "and"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "investors."}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Here"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "are"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "**5**"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "disruptive"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "trends"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "for"}}]}
+
+
+data: {"choices": [{"delta": {"content": "\u00a0"}}]}
+
+
+data: {"choices": [{"delta": {"content": "......"}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "\u2022"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "**The"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "beauty"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "market"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "in"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "2023:"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "New"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "industry"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "trends"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "|"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "McKinsey**:"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "May"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "**22**,****"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "****2023****"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "..."}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "The"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "glow"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "of"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "the"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "beauty"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "industry"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "has"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "proved"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "hard"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "to"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "resist**,**"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "attracting"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "many"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "new"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "companies"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "and"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "investors."}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Here"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "are"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "**5**"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "disruptive"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "trends"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "for"}}]}
+
+
+data: {"choices": [{"delta": {"content": "\u00a0"}}]}
+
+
+data: {"choices": [{"delta": {"content": "......"}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "**\ud83c\udf10"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Web"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Research"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Sources:**"}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "\u2022"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "The"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "beauty"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "market"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "in"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "2023:"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "New"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "industry"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "trends"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "|"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "McKinsey"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "-"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "https://www.mckinsey.com/industries/retail/our-insights/the-beauty-market-in-2023-a-special-state-of-fashion-report"}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "\u2022"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "The"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "beauty"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "market"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "in"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "2023:"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "New"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "industry"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "trends"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "|"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "McKinsey"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "-"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "https://www.mckinsey.com/industries/retail/our-insights/the-beauty-market-in-2023-a-special-state-of-fashion-report"}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "\u2022"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "The"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "beauty"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "market"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "in"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "2023:"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "New"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "industry"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "trends"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "|"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "McKinsey"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "-"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "https://www.mckinsey.com/industries/retail/our-insights/the-beauty-market-in-2023-a-special-state-of-fashion-report"}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "\ud83c\udfe2 **PLATFORM INSIGHTS & INTERNAL DATA**\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "**\ud83d\udcca"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Platform"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Intelligence"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Summary:**"}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "**\ud83d\udd27"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Platform"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Capabilities:**"}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "\u2022"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "**Idea"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Management:**"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Create,"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "track,"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "and"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "validate"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "business"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "ideas"}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "\u2022"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "**Startup"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Registration:**"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Register"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "and"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "track"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "startup"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "progress"}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "\u2022"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "**Smart"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Connections:**"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "AI-powered"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "networking"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "and"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "mentorship"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "matching"}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "\u2022"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "**Partner"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Discovery:**"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Find"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "strategic"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "partners"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "and"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "collaborators"}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "\u2022"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "**Market"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Research:**"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Access"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "to"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "industry"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "reports"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "and"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "competitor"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "data"}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "\u2022"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "**Analytics"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Dashboard:**"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Track"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "progress"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "and"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "measure"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "success"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "metrics"}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n\ud83d\udccb **ADVISORY**\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "Based"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "on"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "all"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "the"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "research"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "I've"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "gathered,"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "here's"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "my"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "friendly"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "advice"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "to"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "help"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "you"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "succeed:"}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "##"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Comprehensive"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Advisory"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "for"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Entering"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "the"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Indian"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Beauty"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Industry"}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "###"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "1."}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "MARKET"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "DATA"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "INTEGRATION"}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "-"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "**Market"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Size"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "and"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Growth**:"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "The"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Indian"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "beauty"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "and"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "personal"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "care"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "market"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "is"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "expected"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "to"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "reach"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "$20"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "billion"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "by"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "2025."}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "It"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "is"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "experiencing"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "significant"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "growth,"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "driven"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "by"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "increasing"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "consumer"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "spending"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "and"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "digital"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "penetration"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "[1]."}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "-"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "**Global"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Context**:"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "The"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "global"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "beauty"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "market"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "saw"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "retail"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "sales"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "at"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "$446"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "billion"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "in"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "2023,"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "with"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "a"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "growth"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "rate"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "of"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "10%"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "[McKinsey]."}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "-"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "**Premium"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Skincare"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Segment**:"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Focus"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "on"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "premium"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "products"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "is"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "increasing,"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "driven"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "by"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "urban"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "consumers"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "seeking"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "high-quality,"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "natural,"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "and"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "organic"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "products."}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "###"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "2."}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "COMPETITOR"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "BENCHMARKING"}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "|"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Company"}}]}
+
+
+data: {"choices": [{"delta": {"content": "                "}}]}
+
+
+data: {"choices": [{"delta": {"content": "|"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Market"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Position"}}]}
+
+
+data: {"choices": [{"delta": {"content": "         "}}]}
+
+
+data: {"choices": [{"delta": {"content": "|"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Strengths"}}]}
+
+
+data: {"choices": [{"delta": {"content": "                                    "}}]}
+
+
+data: {"choices": [{"delta": {"content": "|"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Weaknesses"}}]}
+
+
+data: {"choices": [{"delta": {"content": "                            "}}]}
+
+
+data: {"choices": [{"delta": {"content": "|"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Opportunities"}}]}
+
+
+data: {"choices": [{"delta": {"content": "                     "}}]}
+
+
+data: {"choices": [{"delta": {"content": "|"}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "|------------------------|-------------------------|----------------------------------------------|---------------------------------------|-----------------------------------|"}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "|"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Hindustan"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Unilever"}}]}
+
+
+data: {"choices": [{"delta": {"content": "     "}}]}
+
+
+data: {"choices": [{"delta": {"content": "|"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Leading"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "in"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "mass"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "market"}}]}
+
+
+data: {"choices": [{"delta": {"content": "  "}}]}
+
+
+data: {"choices": [{"delta": {"content": "|"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Strong"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "distribution"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "network"}}]}
+
+
+data: {"choices": [{"delta": {"content": "                  "}}]}
+
+
+data: {"choices": [{"delta": {"content": "|"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Less"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "focus"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "on"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "premium"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "segment"}}]}
+
+
+data: {"choices": [{"delta": {"content": "         "}}]}
+
+
+data: {"choices": [{"delta": {"content": "|"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Diversification"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "into"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "premium"}}]}
+
+
+data: {"choices": [{"delta": {"content": "      "}}]}
+
+
+data: {"choices": [{"delta": {"content": "|"}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "|"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "L\u2019Or\u00e9al"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "India"}}]}
+
+
+data: {"choices": [{"delta": {"content": "          "}}]}
+
+
+data: {"choices": [{"delta": {"content": "|"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Leader"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "in"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "luxury"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "beauty"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "|"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "High"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "brand"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "equity,"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "global"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "innovation"}}]}
+
+
+data: {"choices": [{"delta": {"content": "         "}}]}
+
+
+data: {"choices": [{"delta": {"content": "|"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "High"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "pricing"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "strategy"}}]}
+
+
+data: {"choices": [{"delta": {"content": "                 "}}]}
+
+
+data: {"choices": [{"delta": {"content": "|"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Expanding"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "digital-first"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "strategies|"}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "|"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Procter"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "&"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Gamble"}}]}
+
+
+data: {"choices": [{"delta": {"content": "       "}}]}
+
+
+data: {"choices": [{"delta": {"content": "|"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Strong"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "presence"}}]}
+
+
+data: {"choices": [{"delta": {"content": "         "}}]}
+
+
+data: {"choices": [{"delta": {"content": "|"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Extensive"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "product"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "line"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "and"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "brand"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "loyalty"}}]}
+
+
+data: {"choices": [{"delta": {"content": "     "}}]}
+
+
+data: {"choices": [{"delta": {"content": "|"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Limited"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "focus"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "on"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "natural"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "products"}}]}
+
+
+data: {"choices": [{"delta": {"content": "     "}}]}
+
+
+data: {"choices": [{"delta": {"content": "|"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Emphasize"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "organic"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "product"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "lines"}}]}
+
+
+data: {"choices": [{"delta": {"content": "   "}}]}
+
+
+data: {"choices": [{"delta": {"content": "|"}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "|"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Est\u00e9e"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Lauder"}}]}
+
+
+data: {"choices": [{"delta": {"content": "           "}}]}
+
+
+data: {"choices": [{"delta": {"content": "|"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Prestige"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "brand"}}]}
+
+
+data: {"choices": [{"delta": {"content": "          "}}]}
+
+
+data: {"choices": [{"delta": {"content": "|"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Strong"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "international"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "presence,"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "luxury"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "focus"}}]}
+
+
+data: {"choices": [{"delta": {"content": "  "}}]}
+
+
+data: {"choices": [{"delta": {"content": "|"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Dependency"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "on"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "physical"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "stores"}}]}
+
+
+data: {"choices": [{"delta": {"content": "         "}}]}
+
+
+data: {"choices": [{"delta": {"content": "|"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Expanding"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "e-commerce"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "presence"}}]}
+
+
+data: {"choices": [{"delta": {"content": "     "}}]}
+
+
+data: {"choices": [{"delta": {"content": "|"}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "|"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Forest"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Essentials"}}]}
+
+
+data: {"choices": [{"delta": {"content": "      "}}]}
+
+
+data: {"choices": [{"delta": {"content": "|"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Premium"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Ayurvedic"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "brand"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "|"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Strong"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "brand"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "in"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "natural"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "and"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "organic"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "products"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "|"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "High"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "price"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "point"}}]}
+
+
+data: {"choices": [{"delta": {"content": "                      "}}]}
+
+
+data: {"choices": [{"delta": {"content": "|"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Market"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "expansion"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "in"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "urban"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "areas"}}]}
+
+
+data: {"choices": [{"delta": {"content": "   "}}]}
+
+
+data: {"choices": [{"delta": {"content": "|"}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "###"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "3."}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "VALIDATION"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "HYPOTHESES"}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "-"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "**Hypothesis"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "1**:"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Urban"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "millennial"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "women"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "will"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "pay"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "20%"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "more"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "for"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Ayurvedic+clinical"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "hybrid"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "serum"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "if"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "visible"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "results"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "appear"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "in"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "14"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "days."}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n  "}}]}
+
+
+data: {"choices": [{"delta": {"content": "-"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "**Success"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Criteria**:"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Achieving"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "50%"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "repurchase"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "rate"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "within"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "3"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "months."}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n  "}}]}
+
+
+data: {"choices": [{"delta": {"content": "-"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "**Testing"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Method**:"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "A/B"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "testing"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "with"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "control"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "group"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "using"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "regular"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "pricing"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "and"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "test"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "group"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "with"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "premium"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "pricing."}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "-"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "**Hypothesis"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "2**:"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "A"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "digital-first"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "marketing"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "strategy"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "will"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "increase"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "brand"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "awareness"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "by"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "30%"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "over"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "six"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "months."}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n  "}}]}
+
+
+data: {"choices": [{"delta": {"content": "-"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "**Success"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Criteria**:"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "30%"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "increase"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "in"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "social"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "media"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "followers"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "and"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "engagement."}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n  "}}]}
+
+
+data: {"choices": [{"delta": {"content": "-"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "**Testing"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Method**:"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Track"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "growth"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "metrics"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "using"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "social"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "media"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "analytics"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "tools."}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "###"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "4."}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "SUCCESS"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "METRICS"}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "-"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "**Leading"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Indicators**:"}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n  "}}]}
+
+
+data: {"choices": [{"delta": {"content": "-"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "**Influencer"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Campaign"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "CTR**:"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Target"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "5%"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "CTR."}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n  "}}]}
+
+
+data: {"choices": [{"delta": {"content": "-"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "**Trial-to-Subscription"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Conversion**:"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Aim"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "for"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "15%"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "conversion"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "rate."}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n  "}}]}
+
+
+data: {"choices": [{"delta": {"content": "-"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "**Social"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Engagement**:"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Increase"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "engagement"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "rate"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "by"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "25%"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "on"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "platforms"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "like"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Instagram"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "and"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Facebook."}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "-"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "**Lagging"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Indicators**:"}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n  "}}]}
+
+
+data: {"choices": [{"delta": {"content": "-"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "**Monthly"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Recurring"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Revenue"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "(MRR)**:"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Target"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "$500,000"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "MRR"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "by"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Q4"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "2024."}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n  "}}]}
+
+
+data: {"choices": [{"delta": {"content": "-"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "**Customer"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Lifetime"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Value"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "(LTV)**:"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Achieve"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "an"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "LTV"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "of"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "$300"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "per"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "customer."}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n  "}}]}
+
+
+data: {"choices": [{"delta": {"content": "-"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "**Customer"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Acquisition"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Cost"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "(CAC)**:"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Maintain"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "CAC"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "below"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "$50."}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "###"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "5."}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "STRATEGIC"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "INSIGHTS"}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "-"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "**Key"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Findings**:"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "The"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "trend"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "towards"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "natural"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "and"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "organic"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "products"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "is"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "growing,"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "providing"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "a"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "unique"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "positioning"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "opportunity"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "in"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "the"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "premium"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "segment."}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "-"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "**Risk"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Assessment**:"}}]}
+
+
+data: {"choices": [{"delta": {"content": " \n  "}}]}
+
+
+data: {"choices": [{"delta": {"content": "-"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "**Risk**:"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "High"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "competition"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "in"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "the"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "premium"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "sector."}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n  "}}]}
+
+
+data: {"choices": [{"delta": {"content": "-"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "**Mitigation**:"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Leverage"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "unique"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "value"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "propositions"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "like"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Ayurvedic"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "ingredients"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "and"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "clinical"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "effectiveness."}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "-"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "**Opportunity"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Identification**:"}}]}
+
+
+data: {"choices": [{"delta": {"content": " \n  "}}]}
+
+
+data: {"choices": [{"delta": {"content": "-"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "**Actionable"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Step**:"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Implement"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "a"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "robust"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "digital-first"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "strategy"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "focusing"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "on"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "influencer"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "marketing"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "and"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "targeted"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "ads"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "in"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "metro"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "and"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "tier-2"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "cities."}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "###"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "6."}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "CLEAN"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "NETWORKING"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "CATEGORIES"}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "-"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "**Mentors**:"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Industry"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "veterans"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "who"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "can"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "offer"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "guidance"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "on"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "market"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "entry"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "strategies."}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n  "}}]}
+
+
+data: {"choices": [{"delta": {"content": "-"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "**Value"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Proposition**:"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Provide"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "insights"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "and"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "introductions"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "to"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "potential"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "investors."}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "-"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "**Industry"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Operators**:"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Established"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "companies"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "in"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "the"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "beauty"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "industry."}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n  "}}]}
+
+
+data: {"choices": [{"delta": {"content": "-"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "**Value"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Proposition**:"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Partnerships"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "for"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "distribution"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "and"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "co-marketing"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "opportunities."}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "-"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "**Channel"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Partners**:"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "E-commerce"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "platforms,"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "digital"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "marketing"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "agencies."}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n  "}}]}
+
+
+data: {"choices": [{"delta": {"content": "-"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "**Value"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Proposition**:"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Expand"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "reach"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "through"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "digital"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "platforms"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "and"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "enhance"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "brand"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "visibility."}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "-"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "**Collaborators**:"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Research"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "institutes"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "and"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "ingredient"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "suppliers."}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n  "}}]}
+
+
+data: {"choices": [{"delta": {"content": "-"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "**Value"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Proposition**:"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Collaborate"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "on"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "product"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "development"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "and"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "innovation"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "in"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "natural"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "ingredients."}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "By"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "leveraging"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "these"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "insights"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "and"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "strategies,"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "your"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "startup"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "can"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "effectively"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "position"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "itself"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "within"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "the"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "growing"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Indian"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "beauty"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "industry,"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "particularly"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "in"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "the"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "premium"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "skincare"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "segment."}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n\ud83e\udd1d **CONNECTIONS**\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "Here"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "are"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "some"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "amazing"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "people"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "you"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "should"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "connect"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "with"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "to"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "boost"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "your"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "success:"}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "**\ud83e\udd1d"}}]}
+
+
+data: {"choices": [{"delta": {"content": " NETWORKING"}}]}
+
+
+data: {"choices": [{"delta": {"content": " RECOMMENDATIONS**"}}]}
+
+
+data: {"choices": [{"delta": {"content": " **\ud83c\udf93"}}]}
+
+
+data: {"choices": [{"delta": {"content": " Mentors:**"}}]}
+
+
+data: {"choices": [{"delta": {"content": " \u2022"}}]}
+
+
+data: {"choices": [{"delta": {"content": " **Yash"}}]}
+
+
+data: {"choices": [{"delta": {"content": " Goyal**"}}]}
+
+
+data: {"choices": [{"delta": {"content": " -"}}]}
+
+
+data: {"choices": [{"delta": {"content": " Deputy"}}]}
+
+
+data: {"choices": [{"delta": {"content": " Manager"}}]}
+
+
+data: {"choices": [{"delta": {"content": " -"}}]}
+
+
+data: {"choices": [{"delta": {"content": " ecommerce"}}]}
+
+
+data: {"choices": [{"delta": {"content": " Marketplace"}}]}
+
+
+data: {"choices": [{"delta": {"content": " (Match:"}}]}
+
+
+data: {"choices": [{"delta": {"content": " 0.18)"}}]}
+
+
+data: {"choices": [{"delta": {"content": " \u2022"}}]}
+
+
+data: {"choices": [{"delta": {"content": " **Vikas"}}]}
+
+
+data: {"choices": [{"delta": {"content": " Kamwal**"}}]}
+
+
+data: {"choices": [{"delta": {"content": " -"}}]}
+
+
+data: {"choices": [{"delta": {"content": " Marketing"}}]}
+
+
+data: {"choices": [{"delta": {"content": " Leader"}}]}
+
+
+data: {"choices": [{"delta": {"content": " |"}}]}
+
+
+data: {"choices": [{"delta": {"content": " Growth"}}]}
+
+
+data: {"choices": [{"delta": {"content": " Strategist"}}]}
+
+
+data: {"choices": [{"delta": {"content": " |"}}]}
+
+
+data: {"choices": [{"delta": {"content": " E-commerce"}}]}
+
+
+data: {"choices": [{"delta": {"content": " Expert"}}]}
+
+
+data: {"choices": [{"delta": {"content": " (Match:"}}]}
+
+
+data: {"choices": [{"delta": {"content": " 0.18)"}}]}
+
+
+data: {"choices": [{"delta": {"content": " **\ud83d\udc65"}}]}
+
+
+data: {"choices": [{"delta": {"content": " Industry"}}]}
+
+
+data: {"choices": [{"delta": {"content": " Operators:**"}}]}
+
+
+data: {"choices": [{"delta": {"content": " \u2022"}}]}
+
+
+data: {"choices": [{"delta": {"content": " **Yash"}}]}
+
+
+data: {"choices": [{"delta": {"content": " Goyal**"}}]}
+
+
+data: {"choices": [{"delta": {"content": " -"}}]}
+
+
+data: {"choices": [{"delta": {"content": " Deputy"}}]}
+
+
+data: {"choices": [{"delta": {"content": " Manager"}}]}
+
+
+data: {"choices": [{"delta": {"content": " -"}}]}
+
+
+data: {"choices": [{"delta": {"content": " ecommerce"}}]}
+
+
+data: {"choices": [{"delta": {"content": " Marketplace"}}]}
+
+
+data: {"choices": [{"delta": {"content": " (Match:"}}]}
+
+
+data: {"choices": [{"delta": {"content": " 0.18)"}}]}
+
+
+data: {"choices": [{"delta": {"content": " **\ud83e\udd1d"}}]}
+
+
+data: {"choices": [{"delta": {"content": " Channel"}}]}
+
+
+data: {"choices": [{"delta": {"content": " Partners:**"}}]}
+
+
+data: {"choices": [{"delta": {"content": " \u2022"}}]}
+
+
+data: {"choices": [{"delta": {"content": " **Yash"}}]}
+
+
+data: {"choices": [{"delta": {"content": " Goyal**"}}]}
+
+
+data: {"choices": [{"delta": {"content": " -"}}]}
+
+
+data: {"choices": [{"delta": {"content": " Deputy"}}]}
+
+
+data: {"choices": [{"delta": {"content": " Manager"}}]}
+
+
+data: {"choices": [{"delta": {"content": " -"}}]}
+
+
+data: {"choices": [{"delta": {"content": " ecommerce"}}]}
+
+
+data: {"choices": [{"delta": {"content": " Marketplace"}}]}
+
+
+data: {"choices": [{"delta": {"content": " (Match:"}}]}
+
+
+data: {"choices": [{"delta": {"content": " 0.18)"}}]}
+
+
+data: {"choices": [{"delta": {"content": " \u2022"}}]}
+
+
+data: {"choices": [{"delta": {"content": " **Varun"}}]}
+
+
+data: {"choices": [{"delta": {"content": " Danak**"}}]}
+
+
+data: {"choices": [{"delta": {"content": " -"}}]}
+
+
+data: {"choices": [{"delta": {"content": " Founder\u2019s"}}]}
+
+
+data: {"choices": [{"delta": {"content": " Office"}}]}
+
+
+data: {"choices": [{"delta": {"content": " (Match:"}}]}
+
+
+data: {"choices": [{"delta": {"content": " 0.17)"}}]}
+
+
+data: {"choices": [{"delta": {"content": " *Value"}}]}
+
+
+data: {"choices": [{"delta": {"content": " Propositions:*"}}]}
+
+
+data: {"choices": [{"delta": {"content": " \ud83c\udf93"}}]}
+
+
+data: {"choices": [{"delta": {"content": " **Mentors:**"}}]}
+
+
+data: {"choices": [{"delta": {"content": " Strategic"}}]}
+
+
+data: {"choices": [{"delta": {"content": " guidance,"}}]}
+
+
+data: {"choices": [{"delta": {"content": " industry"}}]}
+
+
+data: {"choices": [{"delta": {"content": " insights,"}}]}
+
+
+data: {"choices": [{"delta": {"content": " and"}}]}
+
+
+data: {"choices": [{"delta": {"content": " validation"}}]}
+
+
+data: {"choices": [{"delta": {"content": " \ud83d\udc65"}}]}
+
+
+data: {"choices": [{"delta": {"content": " **Industry"}}]}
+
+
+data: {"choices": [{"delta": {"content": " Operators:**"}}]}
+
+
+data: {"choices": [{"delta": {"content": " Operational"}}]}
+
+
+data: {"choices": [{"delta": {"content": " expertise,"}}]}
+
+
+data: {"choices": [{"delta": {"content": " market"}}]}
+
+
+data: {"choices": [{"delta": {"content": " knowledge,"}}]}
+
+
+data: {"choices": [{"delta": {"content": " and"}}]}
+
+
+data: {"choices": [{"delta": {"content": " execution"}}]}
+
+
+data: {"choices": [{"delta": {"content": " support"}}]}
+
+
+data: {"choices": [{"delta": {"content": " \ud83e\udd1d"}}]}
+
+
+data: {"choices": [{"delta": {"content": " **Channel"}}]}
+
+
+data: {"choices": [{"delta": {"content": " Partners:**"}}]}
+
+
+data: {"choices": [{"delta": {"content": " Distribution"}}]}
+
+
+data: {"choices": [{"delta": {"content": " networks,"}}]}
+
+
+data: {"choices": [{"delta": {"content": " market"}}]}
+
+
+data: {"choices": [{"delta": {"content": " access,"}}]}
+
+
+data: {"choices": [{"delta": {"content": " and"}}]}
+
+
+data: {"choices": [{"delta": {"content": " growth"}}]}
+
+
+data: {"choices": [{"delta": {"content": " opportunities"}}]}
+
+
+data: {"choices": [{"delta": {"content": " \ud83d\udc68\u200d\ud83d\udcbc"}}]}
+
+
+data: {"choices": [{"delta": {"content": " **Collaborators:**"}}]}
+
+
+data: {"choices": [{"delta": {"content": " Complementary"}}]}
+
+
+data: {"choices": [{"delta": {"content": " skills,"}}]}
+
+
+data: {"choices": [{"delta": {"content": " shared"}}]}
+
+
+data: {"choices": [{"delta": {"content": " resources,"}}]}
+
+
+data: {"choices": [{"delta": {"content": " and"}}]}
+
+
+data: {"choices": [{"delta": {"content": " joint"}}]}
+
+
+data: {"choices": [{"delta": {"content": " ventures"}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n\u26a1 **EXECUTION**\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "Here's"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "your"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "action"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "plan"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "to"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "turn"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "your"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "vision"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "into"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "reality:"}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "To"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "strategically"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "enter"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "the"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "premium"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "skincare"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "segment"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "in"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "India"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "with"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "a"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "digital-first"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "approach,"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "here's"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "a"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "comprehensive"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "execution"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "plan:"}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "###"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "1."}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "VALIDATION"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "HYPOTHESES"}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "####"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Hypothesis"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "1"}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "-"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "**Statement**:"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "\"Urban"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Indian"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "women"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "aged"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "25-40"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "are"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "willing"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "to"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "pay"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "30%"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "more"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "for"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "premium"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "skincare"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "products"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "that"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "promise"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "visible"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "improvements"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "within"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "30"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "days.\""}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "-"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "**Success"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Criteria**:"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "60%"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "positive"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "feedback"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "from"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "survey"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "respondents"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "and"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "a"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "20%"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "increase"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "in"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "willingness"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "to"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "purchase"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "at"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "a"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "premium"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "price"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "point."}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "-"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "**Testing"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Method**:"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Conduct"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "online"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "surveys"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "and"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "focus"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "groups"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "with"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "the"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "target"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "demographic."}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "####"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Hypothesis"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "2"}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "-"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "**Statement**:"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "\"A"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "digital-first"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "skincare"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "brand"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "will"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "achieve"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "a"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "10%"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "higher"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "engagement"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "rate"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "through"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "personalized"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "skincare"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "advice"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "and"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "recommendations"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "via"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "an"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "app.\""}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "-"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "**Success"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Criteria**:"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Achieve"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "a"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "10%"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "engagement"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "rate"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "within"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "the"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "first"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "3"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "months"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "of"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "app"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "launch."}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "-"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "**Testing"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Method**:"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Develop"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "a"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "prototype"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "app,"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "launch"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "a"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "pilot,"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "and"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "track"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "user"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "engagement"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "metrics."}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "####"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Hypothesis"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "3"}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "-"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "**Statement**:"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "\"Collaborations"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "with"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "beauty"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "influencers"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "will"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "increase"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "brand"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "awareness"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "by"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "30%"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "within"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "the"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "first"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "two"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "months"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "of"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "product"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "launch.\""}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "-"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "**Success"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Criteria**:"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "30%"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "increase"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "in"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "social"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "media"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "mentions"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "and"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "a"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "15%"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "increase"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "in"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "website"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "traffic"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "from"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "influencer"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "campaigns."}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "-"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "**Testing"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Method**:"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Partner"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "with"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "influencers"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "for"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "a"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "campaign"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "and"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "track"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "engagement"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "metrics."}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "###"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "2."}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "SUCCESS"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "METRICS"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "&"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "KPIs"}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "-"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "**Leading"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Indicators**:"}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n  "}}]}
+
+
+data: {"choices": [{"delta": {"content": "-"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Influencer"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "campaign"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "CTR:"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Target"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": ">3%"}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n  "}}]}
+
+
+data: {"choices": [{"delta": {"content": "-"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Trial-to-subscription"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "conversion:"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Target"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": ">15%"}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n  "}}]}
+
+
+data: {"choices": [{"delta": {"content": "-"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Social"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "engagement"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "rate:"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Target"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": ">5%"}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "-"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "**Lagging"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Indicators**:"}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n  "}}]}
+
+
+data: {"choices": [{"delta": {"content": "-"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "MRR"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "from"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "subscriptions:"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Achieve"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "$10,000/month"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "within"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "6"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "months"}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n  "}}]}
+
+
+data: {"choices": [{"delta": {"content": "-"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "LTV:"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Target"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": ">$200/customer"}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n  "}}]}
+
+
+data: {"choices": [{"delta": {"content": "-"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "CAC:"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Target"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "<$50/customer"}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "-"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "**Measurement"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Methods**:"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Use"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Google"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Analytics,"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "CRM"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "tools,"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "and"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "social"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "media"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "analytics."}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "-"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "**Tracking"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Frequency**:"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Weekly"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "for"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "leading"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "indicators,"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "monthly"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "for"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "lagging"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "indicators."}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "###"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "3."}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "IMMEDIATE"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "ACTIONS"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "(Next"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "30"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Days)"}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "1."}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "**Conduct"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Market"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Research**"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "(10"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "days)"}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n   "}}]}
+
+
+data: {"choices": [{"delta": {"content": "-"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "**Dependencies**:"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Access"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "to"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "consumer"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "data"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "and"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "market"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "reports."}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n   "}}]}
+
+
+data: {"choices": [{"delta": {"content": "-"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "**Actions**:"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Analyze"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "market"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "size,"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "key"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "players,"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "and"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "consumer"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "trends."}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "2."}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "**Build"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "MVP"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "for"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "App**"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "(15"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "days)"}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n   "}}]}
+
+
+data: {"choices": [{"delta": {"content": "-"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "**Dependencies**:"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Tech"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "team"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "recruitment."}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n   "}}]}
+
+
+data: {"choices": [{"delta": {"content": "-"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "**Actions**:"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Develop"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "an"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "MVP"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "focusing"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "on"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "personalized"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "skincare"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "advice."}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "3."}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "**Launch"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Online"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Survey**"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "(5"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "days)"}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n   "}}]}
+
+
+data: {"choices": [{"delta": {"content": "-"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "**Dependencies**:"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Survey"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "tool"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "setup."}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n   "}}]}
+
+
+data: {"choices": [{"delta": {"content": "-"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "**Actions**:"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Distribute"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "surveys"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "to"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "gather"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "consumer"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "insights."}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "###"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "4."}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "PLATFORM"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "FEATURES"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "UTILIZATION"}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "-"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "**Idea"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Creation"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "and"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Management**:"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Use"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "for"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "brainstorming"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "product"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "features."}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "-"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "**Team"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Building"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "and"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Recruitment**:"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Recruit"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "tech"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "and"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "marketing"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "team"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "members."}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "-"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "**Partner"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Connections"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "and"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Networking**:"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Connect"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "with"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "influencers"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "and"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "suppliers."}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "-"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "**Mentorship"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Matching**:"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Seek"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "advice"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "on"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "digital"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "marketing"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "and"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "product"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "development."}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "###"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "5."}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "TIMELINE"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "&"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "MILESTONES"}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "-"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "**30"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Days**:"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Complete"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "market"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "research,"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "MVP"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "development,"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "and"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "initial"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "surveys."}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "-"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "**60"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Days**:"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Launch"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "pilot"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "app,"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "engage"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "first"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "influencer"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "campaign."}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "-"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "**90"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Days**:"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Analyze"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "data,"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "refine"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "product"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "offerings,"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "and"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "scale"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "marketing"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "efforts."}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "-"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "**Key"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Decision"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Points**:"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Go/No-Go"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "on"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "full"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "app"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "development"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "post-pilot"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "feedback."}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "###"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "6."}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "RESOURCE"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "REQUIREMENTS"}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "-"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "**Human"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Resources**:"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "1"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "tech"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "lead,"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "1"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "marketing"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "lead,"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "2"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "developers."}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "-"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "**Budget**:"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "$50,000"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "for"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "initial"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "development"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "and"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "marketing."}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "-"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "**Tools**:"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "SurveyMonkey,"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Google"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Analytics,"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "CRM"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "tools."}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "-"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "**Partnerships**:"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Collaborate"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "with"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "beauty"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "influencers"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "and"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "skincare"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "labs."}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "-"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "**Risk"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Mitigation**:"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Contingency"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "budget"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "of"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "10%,"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "alternative"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "marketing"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "strategies."}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "###"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "7."}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "VALIDATION"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "EXPERIMENTS"}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "-"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "**A/B"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Test**:"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Run"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "A/B"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "tests"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "on"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "app"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "features"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "to"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "determine"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "the"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "most"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "engaging"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "elements."}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "-"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "**Success"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Metrics**:"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "User"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "retention"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "rate,"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "engagement"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "time"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "per"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "session."}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "-"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "**Iteration"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Cycles**:"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Weekly"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "analysis"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "and"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "monthly"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "feature"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "updates."}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "-"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "**Learning"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Loops**:"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Continuous"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "feedback"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "integration"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "from"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "users"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "and"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "mentors."}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "By"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "closely"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "following"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "this"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "execution"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "plan,"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "the"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "startup"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "can"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "effectively"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "validate"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "its"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "market"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "assumptions,"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "refine"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "its"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "product"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "offering,"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "and"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "establish"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "a"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "strong"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "digital"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "presence"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "in"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "the"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "premium"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "skincare"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "market"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "in"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "India."}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n\ud83d\udcda **SOURCES & CITATIONS**\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "**Research"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Sources"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Used:**"}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "**\ud83d\udcc4"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Knowledge"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Base"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Sources:**"}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "1."}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "{'citation_id':"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "'1',"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "'title':"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "'Beauty"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Industry"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Report',"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "'year':"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "'2024',"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "'pdf_source':"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "'pdfs/beauty-industry-report-2024.pdf',"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "'page':"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "4,"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "'chunk_type':"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "'market_segmentation',"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "'similarity_score':"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "0.9185207291504052}"}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "2."}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "{'citation_id':"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "'2',"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "'title':"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "'Beauty"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Industry"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Report',"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "'year':"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "'2024',"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "'pdf_source':"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "'pdfs/beauty-industry-report-2024.pdf',"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "'page':"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "1,"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "'chunk_type':"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "'market_overview',"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "'similarity_score':"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "0.9108933859509766}"}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "3."}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "{'citation_id':"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "'3',"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "'title':"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "'Beauty"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Industry"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Report',"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "'year':"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "'2024',"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "'pdf_source':"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "'pdfs/beauty-industry-report-2024.pdf',"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "'page':"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "2,"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "'chunk_type':"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "'competitive_landscape',"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "'similarity_score':"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "0.9037855508182815}"}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "4."}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "{'citation_id':"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "'4',"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "'title':"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "'Beauty"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Industry"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Report',"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "'year':"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "'2024',"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "'pdf_source':"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "'pdfs/beauty-industry-report-2024.pdf',"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "'page':"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "5,"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "'chunk_type':"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "'regional_analysis',"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "'similarity_score':"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "0.8876160860877242}"}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "5."}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "{'citation_id':"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "'5',"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "'title':"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "'Beauty"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Industry"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Report',"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "'year':"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "'2024',"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "'pdf_source':"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "'pdfs/beauty-industry-report-2024.pdf',"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "'page':"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "3,"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "'chunk_type':"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "'digital_trends',"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "'similarity_score':"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "0.885577627851514}"}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "**\ud83c\udf10"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Web"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Research"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Sources:**"}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "1."}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "The"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "beauty"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "market"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "in"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "2023:"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "New"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "industry"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "trends"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "|"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "McKinsey"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "-"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "https://www.mckinsey.com/industries/retail/our-insights/the-beauty-market-in-2023-a-special-state-of-fashion-report"}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "2."}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "The"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "beauty"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "market"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "in"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "2023:"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "New"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "industry"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "trends"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "|"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "McKinsey"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "-"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "https://www.mckinsey.com/industries/retail/our-insights/the-beauty-market-in-2023-a-special-state-of-fashion-report"}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "3."}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "The"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "beauty"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "market"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "in"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "2023:"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "New"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "industry"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "trends"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "|"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "McKinsey"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "-"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "https://www.mckinsey.com/industries/retail/our-insights/the-beauty-market-in-2023-a-special-state-of-fashion-report"}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "**\ud83c\udfe2"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Platform"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Data"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Sources:**"}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "\u2022"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Internal"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "startup"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "database"}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "\u2022"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Business"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "ideas"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "repository"}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "\u2022"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Partner"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "network"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "data"}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "\u2022"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Platform"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "analytics"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "and"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "insights"}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "**\ud83d\udcca"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "Methodology:**"}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "This"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "analysis"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "combines"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "real-time"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "web"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "research,"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "proprietary"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "knowledge"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "base"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "data,"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "and"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "platform"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "intelligence"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "to"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "provide"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "comprehensive"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "market"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "insights"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "and"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "strategic"}}]}
+
+
+data: {"choices": [{"delta": {"content": " "}}]}
+
+
+data: {"choices": [{"delta": {"content": "recommendations."}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n\n"}}]}
+
+
+data: {"choices": [{"delta": {"content": "\n\n\u2705 **Analysis Complete**\n"}}]}
+
+
+data: [DONE]
+

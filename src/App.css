@@ -1,0 +1,82 @@
+.rounded-6, .r-6 { border-radius: 6px; }
+/* Global minimalist system */
+html, body {
+  font-family: Inter, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+  color: #0A0A0A;
+  font-weight: 400;
+  background: #F7F7F7;
+}
+
+/* Remove bold everywhere by default */
+h1,h2,h3,h4,h5,h6,strong,b { font-weight: 400; }
+
+/* Only AI response area can use bold */
+.ai-response strong, .ai-response b { font-weight: 600; }
+
+/* Utility shells */
+.mono-card { background: #FFFFFF; border: 1px solid #E5E7EB; border-radius: 6px; box-shadow: 0 1px 3px rgba(0,0,0,0.05); }
+.mono-input { height: 40px; padding: 0 12px; border: 1px solid #D1D5DB; border-radius: 6px; background: #FFFFFF; }
+.mono-btn { height: 40px; padding: 0 16px; border-radius: 6px; background: #0A0A0A; color: #FFFFFF; }
+.mono-btn:hover { background: #111111; }
+.mono-btn-outline { height: 40px; padding: 0 16px; border-radius: 6px; background: #FFFFFF; color: #111111; border: 1px solid #D1D5DB; }
+.mono-btn-outline:hover { background: #F8F8F8; }
+
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+/* Custom scrollbar styles */
+.scrollbar-thin::-webkit-scrollbar {
+  width: 6px;
+}
+
+.scrollbar-thin::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.scrollbar-thin::-webkit-scrollbar-thumb {
+  background: #d6d3d1;
+  border-radius: 3px;
+}
+
+.scrollbar-thin::-webkit-scrollbar-thumb:hover {
+  background: #a8a29e;
+}
+
+/* Hide scrollbar for Firefox */
+.scrollbar-thin {
+  scrollbar-width: thin;
+  scrollbar-color: #d6d3d1 transparent;
+}

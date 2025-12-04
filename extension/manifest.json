@@ -1,0 +1,48 @@
+{
+  "manifest_version": 3,
+  "name": "CFC CRM",
+  "version": "1.0.0",
+  "description": "Seamlessly import your LinkedIn connections to CoFounder Nectar platform",
+  "permissions": [
+    "activeTab",
+    "storage",
+    "scripting",
+    "tabs"
+  ],
+  "host_permissions": [
+    "https://www.linkedin.com/*",
+    "http://localhost:8002/*"
+  ],
+  "externally_connectable": {
+    "matches": [
+      "http://localhost:5173/*",
+      "http://localhost:3000/*",
+      "https://cofounder-nectar.vercel.app/*",
+      "https://*.vercel.app/*"
+    ]
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "https://www.linkedin.com/*",
+        "http://localhost:3000/*",
+        "http://localhost:5173/*",
+        "https://cofounder-nectar.vercel.app/*"
+      ],
+      "js": ["content.js"],
+      "run_at": "document_end"
+    }
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "CFC CRM"
+  },
+  "icons": {
+    "16": "icons/icon-simple.svg",
+    "48": "icons/icon-simple.svg",
+    "128": "icons/icon-simple.svg"
+  }
+} 

@@ -1,0 +1,312 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Test Web App - LinkedIn Integration</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background: #f8f9fa;
+        }
+        .container {
+            background: white;
+            border-radius: 8px;
+            padding: 30px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #0077b5;
+            margin-bottom: 20px;
+        }
+        .test-section {
+            margin: 20px 0;
+            padding: 20px;
+            border: 1px solid #e5e7eb;
+            border-radius: 6px;
+        }
+        .test-section h3 {
+            margin-top: 0;
+            color: #333;
+        }
+        button {
+            background: #0077b5;
+            color: white;
+            border: none;
+            padding: 12px 24px;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 14px;
+            margin: 5px;
+        }
+        button:hover {
+            background: #005885;
+        }
+        .status {
+            margin-top: 10px;
+            padding: 10px;
+            border-radius: 4px;
+            font-size: 14px;
+        }
+        .status.success {
+            background: #d4edda;
+            color: #155724;
+            border: 1px solid #c3e6cb;
+        }
+        .status.error {
+            background: #f8d7da;
+            color: #721c24;
+            border: 1px solid #f5c6cb;
+        }
+        .status.info {
+            background: #d1ecf1;
+            color: #0c5460;
+            border: 1px solid #bee5eb;
+        }
+        .extension-status {
+            background: #f8f9fa;
+            padding: 15px;
+            border-radius: 6px;
+            margin: 20px 0;
+        }
+        .extension-status h4 {
+            margin-top: 0;
+            color: #0077b5;
+        }
+        .extension-status p {
+            margin: 5px 0;
+            font-size: 14px;
+        }
+        .extension-status .installed {
+            color: #10b981;
+            font-weight: 500;
+        }
+        .extension-status .not-installed {
+            color: #ef4444;
+            font-weight: 500;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🧪 Test Web App - LinkedIn Extension Integration</h1>
+        
+        <div class="extension-status">
+            <h4>Extension Status</h4>
+            <p id="extensionStatus">Checking extension status...</p>
+            <p id="extensionDetails"></p>
+        </div>
+
+        <div class="test-section">
+            <h3>🔐 Authentication Test</h3>
+            <p>Test the automatic token sharing with the extension.</p>
+            <button onclick="simulateLogin()">Simulate Login</button>
+            <button onclick="simulateLogout()">Simulate Logout</button>
+            <button onclick="sendTokenDirectly()">Send Token Directly</button>
+            <div id="authStatus" class="status" style="display: none;"></div>
+        </div>
+
+        <div class="test-section">
+            <h3>🔄 Integration Test</h3>
+            <p>Test the complete integration flow.</p>
+            <button onclick="testFullIntegration()">Test Full Integration</button>
+            <button onclick="checkStorage()">Check localStorage</button>
+            <div id="integrationStatus" class="status" style="display: none;"></div>
+        </div>
+
+        <div class="test-section">
+            <h3>📊 Debug Information</h3>
+            <p>View debug information and logs.</p>
+            <button onclick="showDebugInfo()">Show Debug Info</button>
+            <button onclick="clearLogs()">Clear Logs</button>
+            <div id="debugInfo" style="display: none; margin-top: 10px; padding: 10px; background: #f8f9fa; border-radius: 4px; font-family: monospace; font-size: 12px;"></div>
+        </div>
+
+        <div class="test-section">
+            <h3>🎯 Next Steps</h3>
+            <ol>
+                <li>Click "Simulate Login" to test token sharing</li>
+                <li>Open the extension popup to see if token is received</li>
+                <li>Navigate to LinkedIn to test the full flow</li>
+                <li>Click "Connect LinkedIn" in the extension</li>
+            </ol>
+        </div>
+    </div>
+
+    <script>
+        let extensionInstalled = false;
+        let extensionId = null;
+
+        // Check if extension is installed
+        async function checkExtensionStatus() {
+            try {
+                if (window.chrome && window.chrome.runtime) {
+                    // Try to send a ping to the extension
+                    const response = await window.chrome.runtime.sendMessage({
+                        type: 'PING'
+                    });
+                    extensionInstalled = true;
+                    document.getElementById('extensionStatus').innerHTML = '<span class="installed">✅ Extension detected and ready!</span>';
+                    document.getElementById('extensionDetails').textContent = 'You can now test the integration.';
+                } else {
+                    document.getElementById('extensionStatus').innerHTML = '<span class="not-installed">❌ Chrome extension API not available</span>';
+                    document.getElementById('extensionDetails').textContent = 'Make sure you\'re in Chrome and the extension is loaded.';
+                }
+            } catch (error) {
+                document.getElementById('extensionStatus').innerHTML = '<span class="not-installed">❌ Extension not installed or not available</span>';
+                document.getElementById('extensionDetails').textContent = 'Please load the extension in Chrome first.';
+            }
+        }
+
+        // Simulate login and send token to extension
+        async function simulateLogin() {
+            const mockToken = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c";
+            
+            try {
+                // Store in localStorage (this should trigger the extension integration)
+                localStorage.setItem('authToken', mockToken);
+                
+                // Try to send directly to extension
+                if (extensionInstalled) {
+                    const response = await window.chrome.runtime.sendMessage({
+                        type: 'SET_TOKEN',
+                        token: mockToken
+                    });
+                    
+                    showStatus('authStatus', 'success', '✅ Login successful! Token sent to extension.');
+                    console.log('Token sent to extension:', response);
+                } else {
+                    showStatus('authStatus', 'info', '⚠️ Extension not available, but token stored in localStorage.');
+                }
+            } catch (error) {
+                showStatus('authStatus', 'error', '❌ Error sending token to extension: ' + error.message);
+            }
+        }
+
+        // Simulate logout
+        async function simulateLogout() {
+            try {
+                localStorage.removeItem('authToken');
+                
+                if (extensionInstalled) {
+                    await window.chrome.runtime.sendMessage({
+                        type: 'CLEAR_TOKEN'
+                    });
+                    showStatus('authStatus', 'success', '✅ Logout successful! Token cleared from extension.');
+                } else {
+                    showStatus('authStatus', 'info', '⚠️ Extension not available, but token cleared from localStorage.');
+                }
+            } catch (error) {
+                showStatus('authStatus', 'error', '❌ Error clearing token: ' + error.message);
+            }
+        }
+
+        // Send token directly to extension
+        async function sendTokenDirectly() {
+            const mockToken = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c";
+            
+            try {
+                if (extensionInstalled) {
+                    const response = await window.chrome.runtime.sendMessage({
+                        type: 'SET_TOKEN',
+                        token: mockToken
+                    });
+                    showStatus('integrationStatus', 'success', '✅ Token sent directly to extension!');
+                } else {
+                    showStatus('integrationStatus', 'error', '❌ Extension not available');
+                }
+            } catch (error) {
+                showStatus('integrationStatus', 'error', '❌ Error: ' + error.message);
+            }
+        }
+
+        // Test full integration
+        async function testFullIntegration() {
+            try {
+                // Check extension status
+                if (!extensionInstalled) {
+                    showStatus('integrationStatus', 'error', '❌ Extension not installed');
+                    return;
+                }
+
+                // Check localStorage
+                const token = localStorage.getItem('authToken');
+                if (!token) {
+                    showStatus('integrationStatus', 'info', 'ℹ️ No token in localStorage. Run "Simulate Login" first.');
+                    return;
+                }
+
+                // Test token sending
+                const response = await window.chrome.runtime.sendMessage({
+                    type: 'SET_TOKEN',
+                    token: token
+                });
+
+                showStatus('integrationStatus', 'success', '✅ Full integration test passed! Extension is ready to use.');
+            } catch (error) {
+                showStatus('integrationStatus', 'error', '❌ Integration test failed: ' + error.message);
+            }
+        }
+
+        // Check localStorage
+        function checkStorage() {
+            const token = localStorage.getItem('authToken');
+            if (token) {
+                showStatus('integrationStatus', 'success', '✅ Token found in localStorage: ' + token.substring(0, 20) + '...');
+            } else {
+                showStatus('integrationStatus', 'info', 'ℹ️ No token found in localStorage');
+            }
+        }
+
+        // Show debug information
+        function showDebugInfo() {
+            const debugDiv = document.getElementById('debugInfo');
+            const info = {
+                userAgent: navigator.userAgent,
+                chrome: !!window.chrome,
+                chromeRuntime: !!window.chrome?.runtime,
+                extensionInstalled: extensionInstalled,
+                localStorage: {
+                    authToken: localStorage.getItem('authToken') ? 'Present' : 'Not found',
+                    keys: Object.keys(localStorage)
+                },
+                timestamp: new Date().toISOString()
+            };
+            
+            debugDiv.innerHTML = '<pre>' + JSON.stringify(info, null, 2) + '</pre>';
+            debugDiv.style.display = 'block';
+        }
+
+        // Clear logs
+        function clearLogs() {
+            document.getElementById('debugInfo').style.display = 'none';
+            document.getElementById('authStatus').style.display = 'none';
+            document.getElementById('integrationStatus').style.display = 'none';
+        }
+
+        // Helper function to show status messages
+        function showStatus(elementId, type, message) {
+            const element = document.getElementById(elementId);
+            element.textContent = message;
+            element.className = `status ${type}`;
+            element.style.display = 'block';
+            
+            // Auto-hide after 5 seconds
+            setTimeout(() => {
+                element.style.display = 'none';
+            }, 5000);
+        }
+
+        // Initialize
+        document.addEventListener('DOMContentLoaded', function() {
+            checkExtensionStatus();
+            
+            // Check extension status every 2 seconds
+            setInterval(checkExtensionStatus, 2000);
+        });
+    </script>
+</body>
+</html> 

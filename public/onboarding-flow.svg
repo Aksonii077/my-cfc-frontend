@@ -1,0 +1,213 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Gradients -->
+    <linearGradient id="homeGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#4F46E5;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#7C3AED;stop-opacity:1" />
+    </linearGradient>
+    
+    <linearGradient id="signupGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#059669;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0D9488;stop-opacity:1" />
+    </linearGradient>
+    
+    <linearGradient id="roleGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#DC2626;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#EA580C;stop-opacity:1" />
+    </linearGradient>
+    
+    <linearGradient id="entrepreneurGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#2563EB;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1D4ED8;stop-opacity:1" />
+    </linearGradient>
+    
+    <linearGradient id="investorGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#7C3AED;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#6D28D9;stop-opacity:1" />
+    </linearGradient>
+    
+    <linearGradient id="serviceGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#059669;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#047857;stop-opacity:1" />
+    </linearGradient>
+    
+    <linearGradient id="supporterGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#EA580C;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#DC2626;stop-opacity:1" />
+    </linearGradient>
+    
+    <!-- Shadows -->
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="4" stdDeviation="8" flood-color="#000000" flood-opacity="0.1"/>
+    </filter>
+    
+    <!-- Arrow markers -->
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#6B7280"/>
+    </marker>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="1200" height="800" fill="#F9FAFB"/>
+  
+  <!-- Title -->
+  <text x="600" y="40" text-anchor="middle" font-family="Inter, sans-serif" font-size="24" font-weight="600" fill="#111827">
+    CoFounder Circle - Onboarding Flow
+  </text>
+  
+  <!-- Step 1: Home Page -->
+  <g transform="translate(50, 80)">
+    <rect x="0" y="0" width="200" height="120" rx="12" fill="url(#homeGradient)" filter="url(#shadow)"/>
+    <text x="100" y="35" text-anchor="middle" font-family="Inter, sans-serif" font-size="16" font-weight="600" fill="white">Home Page</text>
+    <text x="100" y="55" text-anchor="middle" font-family="Inter, sans-serif" font-size="12" fill="white" opacity="0.9">Landing Page</text>
+    <text x="100" y="75" text-anchor="middle" font-family="Inter, sans-serif" font-size="12" fill="white" opacity="0.9">Hero Section</text>
+    <text x="100" y="95" text-anchor="middle" font-family="Inter, sans-serif" font-size="12" fill="white" opacity="0.9">Feature Showcase</text>
+    <text x="100" y="115" text-anchor="middle" font-family="Inter, sans-serif" font-size="12" fill="white" opacity="0.9">Testimonials</text>
+  </g>
+  
+  <!-- Arrow 1 -->
+  <line x1="250" y1="140" x2="350" y2="140" stroke="#6B7280" stroke-width="2" marker-end="url(#arrowhead)"/>
+  
+  <!-- Step 2: Sign Up -->
+  <g transform="translate(400, 80)">
+    <rect x="0" y="0" width="200" height="120" rx="12" fill="url(#signupGradient)" filter="url(#shadow)"/>
+    <text x="100" y="35" text-anchor="middle" font-family="Inter, sans-serif" font-size="16" font-weight="600" fill="white">Sign Up</text>
+    <text x="100" y="55" text-anchor="middle" font-family="Inter, sans-serif" font-size="12" fill="white" opacity="0.9">Email/Password</text>
+    <text x="100" y="75" text-anchor="middle" font-family="Inter, sans-serif" font-size="12" fill="white" opacity="0.9">OAuth Options</text>
+    <text x="100" y="95" text-anchor="middle" font-family="Inter, sans-serif" font-size="12" fill="white" opacity="0.9">Email Verification</text>
+    <text x="100" y="115" text-anchor="middle" font-family="Inter, sans-serif" font-size="12" fill="white" opacity="0.9">Profile Setup</text>
+  </g>
+  
+  <!-- Arrow 2 -->
+  <line x1="600" y1="140" x2="700" y2="140" stroke="#6B7280" stroke-width="2" marker-end="url(#arrowhead)"/>
+  
+  <!-- Step 3: Role Selection -->
+  <g transform="translate(750, 80)">
+    <rect x="0" y="0" width="200" height="120" rx="12" fill="url(#roleGradient)" filter="url(#shadow)"/>
+    <text x="100" y="35" text-anchor="middle" font-family="Inter, sans-serif" font-size="16" font-weight="600" fill="white">Role Selection</text>
+    <text x="100" y="55" text-anchor="middle" font-family="Inter, sans-serif" font-size="12" fill="white" opacity="0.9">Choose Your Role</text>
+    <text x="100" y="75" text-anchor="middle" font-family="Inter, sans-serif" font-size="12" fill="white" opacity="0.9">4 Options Available</text>
+    <text x="100" y="95" text-anchor="middle" font-family="Inter, sans-serif" font-size="12" fill="white" opacity="0.9">Customizable</text>
+    <text x="100" y="115" text-anchor="middle" font-family="Inter, sans-serif" font-size="12" fill="white" opacity="0.9">Multi-role Support</text>
+  </g>
+  
+  <!-- Arrow 3 (down) -->
+  <line x1="850" y1="200" x2="850" y2="280" stroke="#6B7280" stroke-width="2" marker-end="url(#arrowhead)"/>
+  
+  <!-- Role Options -->
+  <g transform="translate(50, 320)">
+    <!-- Entrepreneur -->
+    <rect x="0" y="0" width="250" height="100" rx="12" fill="url(#entrepreneurGradient)" filter="url(#shadow)"/>
+    <text x="125" y="25" text-anchor="middle" font-family="Inter, sans-serif" font-size="16" font-weight="600" fill="white">Entrepreneur</text>
+    <text x="125" y="45" text-anchor="middle" font-family="Inter, sans-serif" font-size="12" fill="white" opacity="0.9">• Idea Validation</text>
+    <text x="125" y="65" text-anchor="middle" font-family="Inter, sans-serif" font-size="12" fill="white" opacity="0.9">• Startup Building</text>
+    <text x="125" y="85" text-anchor="middle" font-family="Inter, sans-serif" font-size="12" fill="white" opacity="0.9">• Funding Access</text>
+  </g>
+  
+  <g transform="translate(320, 320)">
+    <!-- Investor -->
+    <rect x="0" y="0" width="250" height="100" rx="12" fill="url(#investorGradient)" filter="url(#shadow)"/>
+    <text x="125" y="25" text-anchor="middle" font-family="Inter, sans-serif" font-size="16" font-weight="600" fill="white">Investor</text>
+    <text x="125" y="45" text-anchor="middle" font-family="Inter, sans-serif" font-size="12" fill="white" opacity="0.9">• Deal Discovery</text>
+    <text x="125" y="65" text-anchor="middle" font-family="Inter, sans-serif" font-size="12" fill="white" opacity="0.9">• Portfolio Management</text>
+    <text x="125" y="85" text-anchor="middle" font-family="Inter, sans-serif" font-size="12" fill="white" opacity="0.9">• Due Diligence</text>
+  </g>
+  
+  <g transform="translate(590, 320)">
+    <!-- Service Provider -->
+    <rect x="0" y="0" width="250" height="100" rx="12" fill="url(#serviceGradient)" filter="url(#shadow)"/>
+    <text x="125" y="25" text-anchor="middle" font-family="Inter, sans-serif" font-size="16" font-weight="600" fill="white">Service Provider</text>
+    <text x="125" y="45" text-anchor="middle" font-family="Inter, sans-serif" font-size="12" fill="white" opacity="0.9">• Service Marketplace</text>
+    <text x="125" y="65" text-anchor="middle" font-family="Inter, sans-serif" font-size="12" fill="white" opacity="0.9">• Client Discovery</text>
+    <text x="125" y="85" text-anchor="middle" font-family="Inter, sans-serif" font-size="12" fill="white" opacity="0.9">• Partnership Tools</text>
+  </g>
+  
+  <g transform="translate(860, 320)">
+    <!-- Supporter -->
+    <rect x="0" y="0" width="250" height="100" rx="12" fill="url(#supporterGradient)" filter="url(#shadow)"/>
+    <text x="125" y="25" text-anchor="middle" font-family="Inter, sans-serif" font-size="16" font-weight="600" fill="white">Supporter</text>
+    <text x="125" y="45" text-anchor="middle" font-family="Inter, sans-serif" font-size="12" fill="white" opacity="0.9">• Community Engagement</text>
+    <text x="125" y="65" text-anchor="middle" font-family="Inter, sans-serif" font-size="12" fill="white" opacity="0.9">• Idea Validation</text>
+    <text x="125" y="85" text-anchor="middle" font-family="Inter, sans-serif" font-size="12" fill="white" opacity="0.9">• Feedback & Support</text>
+  </g>
+  
+  <!-- Arrows to modules -->
+  <line x1="125" y1="420" x2="125" y2="480" stroke="#6B7280" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <line x1="445" y1="420" x2="445" y2="480" stroke="#6B7280" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <line x1="715" y1="420" x2="715" y2="480" stroke="#6B7280" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <line x1="985" y1="420" x2="985" y2="480" stroke="#6B7280" stroke-width="2" marker-end="url(#arrowhead)"/>
+  
+  <!-- Module Sections -->
+  <g transform="translate(50, 520)">
+    <!-- Entrepreneur Modules -->
+    <rect x="0" y="0" width="250" height="200" rx="12" fill="#F3F4F6" stroke="#D1D5DB" stroke-width="1" filter="url(#shadow)"/>
+    <text x="125" y="25" text-anchor="middle" font-family="Inter, sans-serif" font-size="14" font-weight="600" fill="#374151">Entrepreneur Modules</text>
+    <text x="125" y="50" text-anchor="middle" font-family="Inter, sans-serif" font-size="11" fill="#6B7280">• Idea Launchpad</text>
+    <text x="125" y="70" text-anchor="middle" font-family="Inter, sans-serif" font-size="11" fill="#6B7280">• Startup Builder</text>
+    <text x="125" y="90" text-anchor="middle" font-family="Inter, sans-serif" font-size="11" fill="#6B7280">• Pitch Tank</text>
+    <text x="125" y="110" text-anchor="middle" font-family="Inter, sans-serif" font-size="11" fill="#6B7280">• Angel Investments</text>
+    <text x="125" y="130" text-anchor="middle" font-family="Inter, sans-serif" font-size="11" fill="#6B7280">• Jobs Marketplace</text>
+    <text x="125" y="150" text-anchor="middle" font-family="Inter, sans-serif" font-size="11" fill="#6B7280">• Startup Tools</text>
+    <text x="125" y="170" text-anchor="middle" font-family="Inter, sans-serif" font-size="11" fill="#6B7280">• Analytics Dashboard</text>
+    <text x="125" y="190" text-anchor="middle" font-family="Inter, sans-serif" font-size="11" fill="#6B7280">• Community Feed</text>
+  </g>
+  
+  <g transform="translate(320, 520)">
+    <!-- Investor Modules -->
+    <rect x="0" y="0" width="250" height="200" rx="12" fill="#F3F4F6" stroke="#D1D5DB" stroke-width="1" filter="url(#shadow)"/>
+    <text x="125" y="25" text-anchor="middle" font-family="Inter, sans-serif" font-size="14" font-weight="600" fill="#374151">Investor Modules</text>
+    <text x="125" y="50" text-anchor="middle" font-family="Inter, sans-serif" font-size="11" fill="#6B7280">• Deal Discovery</text>
+    <text x="125" y="70" text-anchor="middle" font-family="Inter, sans-serif" font-size="11" fill="#6B7280">• Portfolio Management</text>
+    <text x="125" y="90" text-anchor="middle" font-family="Inter, sans-serif" font-size="11" fill="#6B7280">• Due Diligence Tools</text>
+    <text x="125" y="110" text-anchor="middle" font-family="Inter, sans-serif" font-size="11" fill="#6B7280">• Investment Analytics</text>
+    <text x="125" y="130" text-anchor="middle" font-family="Inter, sans-serif" font-size="11" fill="#6B7280">• Syndicate Management</text>
+    <text x="125" y="150" text-anchor="middle" font-family="Inter, sans-serif" font-size="11" fill="#6B7280">• Pitch Sessions</text>
+    <text x="125" y="170" text-anchor="middle" font-family="Inter, sans-serif" font-size="11" fill="#6B7280">• Market Research</text>
+    <text x="125" y="190" text-anchor="middle" font-family="Inter, sans-serif" font-size="11" fill="#6B7280">• Network Hub</text>
+  </g>
+  
+  <g transform="translate(590, 520)">
+    <!-- Service Provider Modules -->
+    <rect x="0" y="0" width="250" height="200" rx="12" fill="#F3F4F6" stroke="#D1D5DB" stroke-width="1" filter="url(#shadow)"/>
+    <text x="125" y="25" text-anchor="middle" font-family="Inter, sans-serif" font-size="14" font-weight="600" fill="#374151">Service Provider Modules</text>
+    <text x="125" y="50" text-anchor="middle" font-family="Inter, sans-serif" font-size="11" fill="#6B7280">• Service Marketplace</text>
+    <text x="125" y="70" text-anchor="middle" font-family="Inter, sans-serif" font-size="11" fill="#6B7280">• Client Discovery</text>
+    <text x="125" y="90" text-anchor="middle" font-family="Inter, sans-serif" font-size="11" fill="#6B7280">• Project Management</text>
+    <text x="125" y="110" text-anchor="middle" font-family="Inter, sans-serif" font-size="11" fill="#6B7280">• Partnership Tools</text>
+    <text x="125" y="130" text-anchor="middle" font-family="Inter, sans-serif" font-size="11" fill="#6B7280">• Service Analytics</text>
+    <text x="125" y="150" text-anchor="middle" font-family="Inter, sans-serif" font-size="11" fill="#6B7280">• Lead Generation</text>
+    <text x="125" y="170" text-anchor="middle" font-family="Inter, sans-serif" font-size="11" fill="#6B7280">• Billing & Payments</text>
+    <text x="125" y="190" text-anchor="middle" font-family="Inter, sans-serif" font-size="11" fill="#6B7280">• Client Portal</text>
+  </g>
+  
+  <g transform="translate(860, 520)">
+    <!-- Supporter Modules -->
+    <rect x="0" y="0" width="250" height="200" rx="12" fill="#F3F4F6" stroke="#D1D5DB" stroke-width="1" filter="url(#shadow)"/>
+    <text x="125" y="25" text-anchor="middle" font-family="Inter, sans-serif" font-size="14" font-weight="600" fill="#374151">Supporter Modules</text>
+    <text x="125" y="50" text-anchor="middle" font-family="Inter, sans-serif" font-size="11" fill="#6B7280">• Community Feed</text>
+    <text x="125" y="70" text-anchor="middle" font-family="Inter, sans-serif" font-size="11" fill="#6B7280">• Idea Validation</text>
+    <text x="125" y="90" text-anchor="middle" font-family="Inter, sans-serif" font-size="11" fill="#6B7280">• Feedback System</text>
+    <text x="125" y="110" text-anchor="middle" font-family="Inter, sans-serif" font-size="11" fill="#6B7280">• Mentorship Tools</text>
+    <text x="125" y="130" text-anchor="middle" font-family="Inter, sans-serif" font-size="11" fill="#6B7280">• Event Participation</text>
+    <text x="125" y="150" text-anchor="middle" font-family="Inter, sans-serif" font-size="11" fill="#6B7280">• Networking Hub</text>
+    <text x="125" y="170" text-anchor="middle" font-family="Inter, sans-serif" font-size="11" fill="#6B7280">• Impact Tracking</text>
+    <text x="125" y="190" text-anchor="middle" font-family="Inter, sans-serif" font-size="11" fill="#6B7280">• Rewards System</text>
+  </g>
+  
+  <!-- Final Arrow to Dashboard -->
+  <line x1="600" y1="720" x2="600" y2="760" stroke="#6B7280" stroke-width="3" marker-end="url(#arrowhead)"/>
+  
+  <!-- Dashboard -->
+  <g transform="translate(475, 780)">
+    <rect x="0" y="0" width="250" height="60" rx="12" fill="#1F2937" filter="url(#shadow)"/>
+    <text x="125" y="25" text-anchor="middle" font-family="Inter, sans-serif" font-size="16" font-weight="600" fill="white">Personalized Dashboard</text>
+    <text x="125" y="45" text-anchor="middle" font-family="Inter, sans-serif" font-size="12" fill="white" opacity="0.9">Role-based experience with relevant modules</text>
+  </g>
+  
+  <!-- Legend -->
+  <g transform="translate(50, 750)">
+    <rect x="0" y="0" width="300" height="40" rx="8" fill="white" stroke="#D1D5DB" stroke-width="1"/>
+    <text x="150" y="15" text-anchor="middle" font-family="Inter, sans-serif" font-size="12" font-weight="600" fill="#374151">Legend</text>
+    <text x="150" y="30" text-anchor="middle" font-family="Inter, sans-serif" font-size="10" fill="#6B7280">User Journey • Role Selection • Module Assignment</text>
+  </g>
+</svg> 

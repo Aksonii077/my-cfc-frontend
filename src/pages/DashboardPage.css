@@ -1,0 +1,42 @@
+/* Custom scrollbar styling for horizontal scrolling */
+.scrollbar-hide {
+  -ms-overflow-style: none;  /* Internet Explorer 10+ */
+  scrollbar-width: none;  /* Firefox */
+}
+
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;  /* Safari and Chrome */
+}
+
+/* Ensure containers don't overflow */
+.overflow-x-auto {
+  scroll-behavior: smooth;
+  width: 100%;
+  max-width: 100%;
+}
+
+/* Fixed container sizing */
+.max-w-7xl {
+  max-width: 80rem;
+}
+
+/* Card hover effects */
+.h-64 {
+  min-height: 16rem;
+}
+
+/* Smooth transitions */
+.transition-all {
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .overflow-x-auto {
+    padding-bottom: 8px;
+  }
+  
+  .h-64 {
+    min-height: 14rem;
+  }
+} 

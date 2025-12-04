@@ -1,0 +1,25 @@
+{
+  "name": "linkedin-connections-fetcher-test-api",
+  "version": "1.0.0",
+  "description": "Test API server for LinkedIn Connections Fetcher Chrome extension",
+  "main": "test-api.js",
+  "scripts": {
+    "start": "node test-api.js",
+    "dev": "nodemon test-api.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "keywords": [
+    "linkedin",
+    "chrome-extension",
+    "test-api",
+    "connections"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+} 
