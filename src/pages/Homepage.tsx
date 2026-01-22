@@ -115,7 +115,7 @@ const Homepage: React.FC = () => {
           className="text-lg font-bold text-gray-800 text-center mb-6"
           style={{ fontFamily: "Roboto, sans-serif" }}
         >
-          What are you looking to build today Ashish?
+          What are you looking to build today Ashish soni?
         </h1>
         <SearchInput
           placeholder="I want to start a D2C skincare brand..."
