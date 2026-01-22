@@ -2,6 +2,9 @@ import { useState, useCallback, useEffect } from 'react'
 import UserInfo from './UserInfo'
 import { FounderOnboarding } from './flows/FounderOnBoarding/FounderOnboarding';
 import { MentorOnboarding } from './flows/MentorOnboarding';
+
+import { ServiceProviderOnboarding } from './flows/ServiceProviderOnboarding'
+
 import { logger } from '@/utils/logger';
 import type { UserInfoData, OnboardingStep } from './types';
 
@@ -78,7 +81,7 @@ export const OnboardingFlow = ({ onComplete }: OnboardingFlowProps) => {
       case 'freelancer':
         return <MentorOnboarding {...commonProps} />;
       case 'service_provider':
-        return <MentorOnboarding {...commonProps} />;
+        return <ServiceProviderOnboarding  {...commonProps} />;
       case 'student':
         return <MentorOnboarding {...commonProps} />;
       case 'job_seeker':

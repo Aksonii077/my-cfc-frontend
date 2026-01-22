@@ -26,4 +26,5 @@ export const ROUTES = {
 export const DASHBOARD_ROUTES = {
   FOUNDER: '/dashboard/mentors',
   MENTOR: '/dashboard/mentors',
+  PARTNER: "/dashboard/mentors",
 } as const;

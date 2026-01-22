@@ -5,7 +5,8 @@ export interface User {
   id: string;
   email: string;
   name: string;
-  role: 'user' | 'admin' | 'founder' | 'investor' | 'mentor';
+  role: 'user' | 'admin' | 'founder' | 'mentor' | 'service_provider' | 'investor' | 'freelancer' | 'student' | 'job_seeker' | 'supplier';
+
   createdAt: string;
   updatedAt: string;
   onboardingStep: string | null;

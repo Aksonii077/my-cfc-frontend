@@ -16,19 +16,20 @@ interface ApiErrorResponse {
  * - Handles common error responses (401, 403, 404, 422, 429, 500)
  * - Shows user-friendly error messages via antd message
  * - Automatic logout on 401 (session expired)
+ * - ✅ Sends cookies for session-based auth (service provider onboarding)
  *
  * Usage:
- * ```typescript
- * import { apiMethods, endpoints } from '@/utils/api';
+ * ```
+ * import { apiClient, endpoints } from '@/utils/api';
  *
  * // Simple GET request
- * const response = await apiMethods.get('/endpoint');
+ * const response = await apiClient.get('/endpoint');
  *
  * // POST request with data
- * const response = await apiMethods.post('/endpoint', data);
+ * const response = await apiClient.post('/endpoint', data);
  *
  * // Using predefined endpoints
- * const response = await apiMethods.get(endpoints.mentor.profile);
+ * const response = await apiClient.get(endpoints.mentor.profile);
  * ```
  */
 
@@ -57,18 +58,13 @@ api.interceptors.request.use(
     // Ensure ngrok header is always present  
     config.headers['ngrok-skip-browser-warning'] = '1';
 
-    // Ensure proper JSON serialization for object data
+    // ✅ FIX: Don't double-stringify data
+    // Axios automatically serializes objects to JSON
+    // Only manually stringify if absolutely necessary
     if (config.data && typeof config.data === 'object' && !(config.data instanceof FormData)) {
-      // If it's already a string, don't stringify again
-      if (typeof config.data !== 'string') {
-        config.data = JSON.stringify(config.data);
-      }
-      // Ensure content-type is set correctly for JSON
-      if (!config.headers['Content-Type'] || config.headers['Content-Type'] === 'application/json') {
-        config.headers['Content-Type'] = 'application/json';
-      }
+      // Axios will handle JSON.stringify automatically
+      config.headers['Content-Type'] = 'application/json';
     }
-
 
     return config;
   },
@@ -80,14 +76,11 @@ api.interceptors.request.use(
 // Response interceptor to handle common response scenarios
 api.interceptors.response.use(
   (response: AxiosResponse) => {
-
     return response;
   },
   (error: AxiosError<ApiErrorResponse>) => {
-
     // Handle 401 status specially
     if (error.response?.status === 401) {
-
       // Clear stored auth data
       localStorage.removeItem("token");
       localStorage.removeItem("user");
@@ -115,45 +108,47 @@ api.interceptors.response.use(
   }
 );
 
-// Helper functions for common API operations
+// ✅ UPDATED: Helper functions with proper typing
 export const apiClient = {
   // GET request
-  get: <T = any>(url: string, config?: any) => api.get<T>(url, config),
+  get: <T = any>(url: string, config?: any): Promise<AxiosResponse<T>> => 
+    api.get<T>(url, config),
 
-  // POST request
-  post: <T = any>(url: string, data?: any, config?: any) =>
-    api.post<T>(url, typeof data === 'object' && data !== null && !(data instanceof FormData) ? JSON.stringify(data) : data, config),
+  // POST request - ✅ FIX: Return AxiosResponse, not just data
+  post: <T = any>(url: string, data?: any, config?: any): Promise<AxiosResponse<T>> =>
+    api.post<T>(url, data, config),
 
   // PUT request
-  put: <T = any>(url: string, data?: any, config?: any) =>
+  put: <T = any>(url: string, data?: any, config?: any): Promise<AxiosResponse<T>> =>
     api.put<T>(url, data, config),
 
   // PATCH request
-  patch: <T = any>(url: string, data?: any, config?: any) =>
+  patch: <T = any>(url: string, data?: any, config?: any): Promise<AxiosResponse<T>> =>
     api.patch<T>(url, data, config),
 
   // DELETE request
-  delete: <T = any>(url: string, config?: any) => api.delete<T>(url, config),
+  delete: <T = any>(url: string, config?: any): Promise<AxiosResponse<T>> => 
+    api.delete<T>(url, config),
 
   // POST with FormData (for file uploads)
-  postFormData: <T = any>(url: string, formData: FormData, config?: any) =>
+  postFormData: <T = any>(url: string, formData: FormData, config?: any): Promise<AxiosResponse<T>> =>
     api.post<T>(url, formData, {
       ...config,
       headers: {
         "Content-Type": "multipart/form-data",
         ...config?.headers,
-         'ngrok-skip-browser-warning': '1'
+        'ngrok-skip-browser-warning': '1'
       },
     }),
 
   // PUT with FormData (for file uploads)
-  putFormData: <T = any>(url: string, formData: FormData, config?: any) =>
+  putFormData: <T = any>(url: string, formData: FormData, config?: any): Promise<AxiosResponse<T>> =>
     api.put<T>(url, formData, {
       ...config,
       headers: {
         "Content-Type": "multipart/form-data",
         ...config?.headers,
-         'ngrok-skip-browser-warning': '1'
+        'ngrok-skip-browser-warning': '1'
       },
     }),
 };

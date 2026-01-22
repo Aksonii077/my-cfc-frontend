@@ -18,6 +18,11 @@ export interface ValidationErrors {
   linkedin?: string
   selectedRole?: string
   submit?: string
+  // ✅ ADD: Service provider validation errors
+  bio?: string
+  services?: string
+  businessType?: string
+  yearsOfExperience?: string
 }
 
 export type UserRole = {
@@ -81,6 +86,14 @@ export interface ServiceProviderData extends Record<string, unknown> {
   businessType?: string
   clientTypes?: string[]
   pricing?: string
+}
+
+// ✅ ADD: Service Provider Form Data (for onboarding validation)
+export interface ServiceProviderFormData {
+  bio: string
+  services: string[]
+  businessType: string
+  yearsOfExperience: string
 }
 
 export interface StudentData extends Record<string, unknown> {

@@ -33,16 +33,21 @@ export const redirectToExternalDashboard = (
   let dashboardPath: string;
 
   switch (role) {
-    case "founder":
-      dashboardPath = DASHBOARD_ROUTES.FOUNDER;
-      break;
-    case "mentor":
-      dashboardPath = DASHBOARD_ROUTES.MENTOR;
-      break;
-    default:
-      console.warn('[REDIRECT] Unknown role:', role);
-      return;
-  }
+  case "founder":
+    dashboardPath = DASHBOARD_ROUTES.FOUNDER;
+    break;
+  case "mentor":
+    dashboardPath = DASHBOARD_ROUTES.MENTOR;
+    break;
+  case "partner":  
+  case "service_provider":  
+    dashboardPath = DASHBOARD_ROUTES.PARTNER || DASHBOARD_ROUTES.FOUNDER; 
+    break;
+  default:
+    console.warn('[REDIRECT] Unknown role:', role);
+    return;
+}
+
 
   const redirectUrl = `${dashboardUrl}${dashboardPath}`;
   console.log('[REDIRECT] Redirecting to:', redirectUrl);
@@ -81,7 +86,7 @@ export const getDefaultRedirectPath = (
         shouldRedirect: userData?.isOnboarded && (userData.role === "founder" || userData.role === "mentor")
       });
       
-      if (userData?.isOnboarded && (userData.role === "founder" || userData.role === "mentor")) {
+      if (userData?.isOnboarded && (userData.role === "founder" || userData.role === "mentor" || userData.role === "partner" || userData.role === "service_provider")) {
         console.log('[REDIRECT] Redirecting to external dashboard');
         redirectToExternalDashboard(userData.role, token);
         return null;

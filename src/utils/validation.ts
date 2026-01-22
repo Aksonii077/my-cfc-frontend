@@ -4,6 +4,7 @@ export interface ValidationRule<T = any> {
   maxLength?: number
   pattern?: RegExp
   custom?: (value: T) => string | null
+  message?: string  // ✅ Custom error messages
 }
 
 export interface ValidationRules {
@@ -20,7 +21,7 @@ export const validateField = <T = string>(
 ): string | null => {
   // Check if field is required
   if (rules.required && (!value || (typeof value === 'string' && !value.trim()))) {
-    return 'This field is required'
+    return rules.message || 'This field is required'
   }
 
   // For optional fields, skip validation if value is empty
@@ -30,18 +31,19 @@ export const validateField = <T = string>(
 
   if (typeof value === 'string') {
     if (rules.minLength && value.length < rules.minLength) {
-      return `Must be at least ${rules.minLength} characters`
+      return rules.message || `Must be at least ${rules.minLength} characters`
     }
 
     if (rules.maxLength && value.length > rules.maxLength) {
-      return `Must be no more than ${rules.maxLength} characters`
+      return rules.message || `Must be no more than ${rules.maxLength} characters`
     }
 
     if (rules.pattern && !rules.pattern.test(value)) {
-      return 'Invalid format'
+      return rules.message || 'Invalid format'
     }
   }
 
+  //  Run custom validation LAST (after all other checks pass)
   if (rules.custom) {
     return rules.custom(value)
   }
@@ -88,6 +90,7 @@ export const COMMON_RULES = {
       return null
     }
   },
+  // ✅ MENTOR BIO (Short - max 150 chars)
   bio: {
     required: true,
     maxLength: 150,
@@ -97,7 +100,20 @@ export const COMMON_RULES = {
       return null
     }
   },
+  // ✅ SERVICE PROVIDER BIO (Long - 50-500 chars)
+  serviceProviderBio: {
+    required: true,
+    minLength: 50,
+    maxLength: 500,
+    custom: (value: string) => {
+      if (!value?.trim()) return 'Please provide a bio about your business'
+      if (value.length < 50) return 'Bio must be at least 50 characters'
+      if (value.length > 500) return 'Bio must be no more than 500 characters'
+      return null
+    }
+  },
   expertise: {
+    required: true,
     custom: (value: string[]) => {
       if (!value || value.length === 0) {
         return 'Please select at least one area of expertise'

@@ -28,6 +28,14 @@ export interface Industry {
   label: string
 }
 
+
+export interface ServiceProviderFormData {
+  bio: string
+  services: string[]
+  businessType: string
+  yearsOfExperience: string
+}
+
 export interface StepComponentProps {
   formData: OnboardingData
   errors: ValidationErrors
